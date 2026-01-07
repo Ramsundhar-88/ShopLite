@@ -97,8 +97,8 @@ System Availability	Downtime during rollback
 Data Integrity	Production records overwritten
 Customer Trust	Reduced confidence
 Business Risk	Revenue & brand impact
-🎯 Key Takeaways
 
+🎯 Key Takeaways
 ✔ Automate environment management
 ✔ Never reuse secrets
 ✔ Validate configs before deployment
